@@ -1,0 +1,29 @@
+body{
+	background-color: lightgoldenrodyellow
+}
+h1{
+	font-size: 30px;
+	color: navy;
+}
+h2{
+	font-size: 20px;
+	color: teal
+}
+.middlechild{
+	font-size: 60px;
+}
+.parent{
+	text-transform: uppercase;
+
+}
+.middlechild.parent{
+	color: hotpink;
+}
+
+span{
+	color: green;
+}
+
+h1 span{
+	color: black;
+}
